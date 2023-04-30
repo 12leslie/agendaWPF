@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\..\\source\\repos\\WpfApp14\\WpfApp14.sln",
+    "projects": [
+      "WpfApp14\\WpfApp14.csproj"
+    ]
+  }
+}
